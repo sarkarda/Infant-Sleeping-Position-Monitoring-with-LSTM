@@ -3,11 +3,17 @@ This project aims to enhance infant safety by monitoring their sleeping position
 
 Project Structure
 Step 1: Import necessary libraries for data manipulation, machine learning modeling, and visualization.
+
 Step 2: Load and preprocess the dataset to structure it for analysis, including datetime conversions and feature extraction.
+
 Step 3: Data preprocessing, including feature scaling and splitting the dataset into training and testing sets for model training.
+
 Step 4: Define, compile, and train the LSTM model with the processed dataset.
+
 Step 5: Evaluate the model's performance on the test set and make predictions.
+
 Step 6: Perform K-Fold Cross-Validation to assess the model's reliability across different subsets of the data.
+
 Step 7: Export the results and predictions for further use or analysis.
 Setup
 To run this project, ensure you have Python and the necessary libraries installed:
